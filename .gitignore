@@ -1,0 +1,28 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Large Model Weights (LiteRT models should not be committed to Git)
+*.litertlm
+models/
+
+# Local data & temporary files
+*.tmp
+*.log
+.DS_Store
+
+# IDE and Editor settings
+.vscode/
+.idea/
+
+# Environment and secrets
+.env
+.env.*

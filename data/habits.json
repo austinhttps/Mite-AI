@@ -1,43 +1,4 @@
 {
   "version": "1.0",
-  "habits": {
-    "Meditation": {
-      "created_at": "2026-10-08",
-      "logs": {
-        "2026-10-08": {
-          "status": "completed",
-          "updated_at": "2026-10-08T01:20:48",
-          "notes": "10 min mindfulness"
-        }
-      }
-    },
-    "Reading": {
-      "created_at": "2026-10-08",
-      "logs": {
-        "2026-10-06": {
-          "status": "completed",
-          "updated_at": "2026-10-08T01:20:48"
-        },
-        "2026-10-07": {
-          "status": "completed",
-          "updated_at": "2026-10-08T01:20:48"
-        },
-        "2026-10-08": {
-          "status": "completed",
-          "updated_at": "2026-10-08T01:20:48"
-        }
-      }
-    },
-    "Morning Jog": {
-      "created_at": "2026-10-08",
-      "logs": {
-        "2026-10-08": {
-          "status": "completed",
-          "updated_at": "2026-10-08T01:20:48",
-          "metric_value": 5.0,
-          "metric_unit": "km"
-        }
-      }
-    }
-  }
+  "habits": {}
 }
